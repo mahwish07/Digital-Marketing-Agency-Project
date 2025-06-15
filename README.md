@@ -72,26 +72,3 @@ https://yourusername.github.io/Digital-Marketing-Agency-Project
     Or simply open `index.html` in your browser.
 
 ---
-
-## 🚀 Usage
-
-- Customize the content in `index.html`, update images in `assets/`, and edit SCSS variables in `scss/`  
-- Recompile SCSS with `npm run build-css` or your preferred method if you're using a preprocessor  
-- Deploy with GitHub Pages or push to Netlify/Vercel for live hosting
-
----
-
-## 📂 Project Structure
-
-```text
-Digital-Marketing-Agency-Project/
-├── index.html
-├── services.html
-├── portfolio.html
-├── contact.html
-├── css/ (compiled CSS)
-├── scss/ (source styles)
-├── js/ (interaction scripts)
-└── assets/
-    ├── images/
-    └── fonts/
