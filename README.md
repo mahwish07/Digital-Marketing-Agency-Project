@@ -2,7 +2,7 @@
 
 A modern, multi-page, responsive website for a digital marketing agency showcasing services, portfolio, pricing, testimonials, and contact functionality.
 
-[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://yourusername.github.io/Digital-Marketing-Agency-Project)
+[![Live Demo ](https://yourusername.github.io/Digital-Marketing-Agency-Project)
 
 ---
 
@@ -18,16 +18,13 @@ A modern, multi-page, responsive website for a digital marketing agency showcasi
 - [License](#license)  
 - [Contact](#contact)
 
----
 
 ## 🎬 Demo
 
 Check out the live demo here:  
 https://yourusername.github.io/Digital-Marketing-Agency-Project
 
-![Landing Page Screenshot](path/to/screenshot.png)
 
----
 
 ## ✨ Features
 
